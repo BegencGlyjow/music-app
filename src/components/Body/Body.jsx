@@ -36,7 +36,9 @@ const Body = () => {
         </div>
         </main> */}
         {/* Genres */}
-        
+        <h1 className='text-slate-800 text-2xl'>
+            Glyjow Begenc
+        </h1>
     </section>
   )
 }
