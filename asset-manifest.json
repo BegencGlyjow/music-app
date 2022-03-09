@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.3489b716.css",
-    "main.js": "/music-app/static/js/main.3dc23c06.js",
+    "main.css": "/music-app/static/css/main.50a3bf14.css",
+    "main.js": "/music-app/static/js/main.fe0a92e6.js",
     "static/js/787.28cb0dcd.chunk.js": "/music-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hand.mp3": "/music-app/static/media/hand.8bfbd15dc1de261142c9.mp3",
+    "static/media/1.jpeg": "/music-app/static/media/1.e6c1dd17fc62eadbfaf9.jpeg",
+    "static/media/7.jpeg": "/music-app/static/media/7.e6c1dd17fc62eadbfaf9.jpeg",
+    "static/media/4.jpeg": "/music-app/static/media/4.06fa9abd7a98d1c22a0b.jpeg",
+    "static/media/6.jpeg": "/music-app/static/media/6.06fa9abd7a98d1c22a0b.jpeg",
+    "static/media/3.jpeg": "/music-app/static/media/3.62db24a0e10fd3a5c1d2.jpeg",
+    "static/media/9.jpeg": "/music-app/static/media/9.62db24a0e10fd3a5c1d2.jpeg",
+    "static/media/2.jpeg": "/music-app/static/media/2.222439c712c791a234db.jpeg",
+    "static/media/8.jpeg": "/music-app/static/media/8.222439c712c791a234db.jpeg",
+    "static/media/12.jpeg": "/music-app/static/media/12.369ab4bdcb45d7ebeb19.jpeg",
+    "static/media/5.jpeg": "/music-app/static/media/5.369ab4bdcb45d7ebeb19.jpeg",
+    "static/media/10.jpeg": "/music-app/static/media/10.0a1328d5cf812ba6f567.jpeg",
+    "static/media/11.jpeg": "/music-app/static/media/11.0a1328d5cf812ba6f567.jpeg",
     "static/media/hed.svg": "/music-app/static/media/hed.0ce49c61e4863700da7ad2a65a1aeba2.svg",
     "index.html": "/music-app/index.html",
-    "main.3489b716.css.map": "/music-app/static/css/main.3489b716.css.map",
-    "main.3dc23c06.js.map": "/music-app/static/js/main.3dc23c06.js.map",
+    "main.50a3bf14.css.map": "/music-app/static/css/main.50a3bf14.css.map",
+    "main.fe0a92e6.js.map": "/music-app/static/js/main.fe0a92e6.js.map",
     "787.28cb0dcd.chunk.js.map": "/music-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3489b716.css",
-    "static/js/main.3dc23c06.js"
+    "static/css/main.50a3bf14.css",
+    "static/js/main.fe0a92e6.js"
   ]
 }
