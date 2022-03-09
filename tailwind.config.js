@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'montserrat-medium': ["Montserrat-Medium"],
-        'montserrat-bold': ["Montserrat-Bold"],
+        'dancing-medium': ["DancingScript-Medium"],
+        'dancing-bold': ["DancingScript-Bold"],
       },
     },
   },
