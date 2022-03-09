@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.50a3bf14.css",
-    "main.js": "/music-app/static/js/main.fe0a92e6.js",
+    "main.css": "/music-app/static/css/main.c824d235.css",
+    "main.js": "/music-app/static/js/main.82d1abbd.js",
     "static/js/787.28cb0dcd.chunk.js": "/music-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/hand.mp3": "/music-app/static/media/hand.8bfbd15dc1de261142c9.mp3",
+    "static/media/DancingScript-Medium.ttf": "/music-app/static/media/DancingScript-Medium.3a0c10743252bc5d2904.ttf",
+    "static/media/DancingScript-Bold.ttf": "/music-app/static/media/DancingScript-Bold.8bcc6e426addb9a5c847.ttf",
     "static/media/1.jpeg": "/music-app/static/media/1.e6c1dd17fc62eadbfaf9.jpeg",
     "static/media/7.jpeg": "/music-app/static/media/7.e6c1dd17fc62eadbfaf9.jpeg",
     "static/media/4.jpeg": "/music-app/static/media/4.06fa9abd7a98d1c22a0b.jpeg",
@@ -18,12 +20,12 @@
     "static/media/11.jpeg": "/music-app/static/media/11.0a1328d5cf812ba6f567.jpeg",
     "static/media/hed.svg": "/music-app/static/media/hed.0ce49c61e4863700da7ad2a65a1aeba2.svg",
     "index.html": "/music-app/index.html",
-    "main.50a3bf14.css.map": "/music-app/static/css/main.50a3bf14.css.map",
-    "main.fe0a92e6.js.map": "/music-app/static/js/main.fe0a92e6.js.map",
+    "main.c824d235.css.map": "/music-app/static/css/main.c824d235.css.map",
+    "main.82d1abbd.js.map": "/music-app/static/js/main.82d1abbd.js.map",
     "787.28cb0dcd.chunk.js.map": "/music-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a3bf14.css",
-    "static/js/main.fe0a92e6.js"
+    "static/css/main.c824d235.css",
+    "static/js/main.82d1abbd.js"
   ]
 }
