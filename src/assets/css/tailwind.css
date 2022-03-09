@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: rgba(46, 45, 45, 0.967);
+
+}
 @layer base {
   * {
     outline: none !important;
@@ -27,9 +31,10 @@
   }
 
   ::-webkit-scrollbar-thumb {
-    background: #fde047;
+    background:#598C08;
     border-radius: 3rem;
   }
+
 
 
   

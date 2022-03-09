@@ -3,12 +3,14 @@ import {  HiChevronRight,HiOutlineChartBar, HiOutlineDotsHorizontal, HiOutlineHo
 import { IoCompassSharp } from 'react-icons/io5'
 
 import hed from './hed.svg'
+
+
 const Sidebar = () => {
   return (
-    <section className='fixed top-0 -left-28 md:left-0 duration-500  flex flex-col p-4 bg-black items-center w-[90px] h-screen space-y-8 border-r border-lime-500/50'>
-      <div className='hover:border-b-4 border-lime-600 px-1.5 rounded-xl absolute md:hidden block left-[7.5rem] top-5 bg-black/70 cursor-pointer'>
+    <section className='fixed top-0 -left-28 md:left-0 duration-500  flex flex-col p-4 bg-gradient-to-t to-black/95 from-lime-600/25 items-center w-[90px] h-screen space-y-8 border-r border-lime-500/50'>
+      <button  className='hover:border-b-4 border-lime-600 px-1.5 rounded-xl absolute md:hidden block left-[7.5rem] top-5 bg-black/70 cursor-pointer'>
       <HiChevronRight size={32} className='text-slate-500'/>
-      </div>
+      </button>
       
       <img src={hed} alt="" className='w-10' />
       <div className='flex flex-col space-y-8'>
