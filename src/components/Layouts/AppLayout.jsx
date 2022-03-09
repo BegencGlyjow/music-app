@@ -1,12 +1,18 @@
 import React from 'react'
-import Body from '../Body/Body'
-import SearchBar from '../SearchBar/SearchBar'
+import Carousel from '../Carousel/Carousel'
+import Header from '../Header/Header'
+import Player from '../Player/Player'
+import Playlist from '../PlayerList/Playlist'
 import Sidebar from '../Sidebar/Sidebar'
 const AppLayout = () => {
   return (
-    <main>
+    <main className='font-montserrat-medium'>
         <Sidebar/>
-        <Body/>
+        <Header/>
+        <Carousel/>
+        <Playlist/>
+        <Player/>
+   
     </main>
   )
 }

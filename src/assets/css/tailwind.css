@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    outline: none !important;
+  }
+ 
+
+  @font-face {
+    font-family: Montserrat-Bold;
+    src: url('../fonts/Montserrat-Bold.ttf');
+  }
+
+  @font-face {
+    font-family: Montserrat-Medium;
+    src: url("../fonts/Montserrat-Medium.ttf");
+  }
+
+  ::-webkit-scrollbar {
+    background: #111;
+    width: 10px;
+  }
+  ::-webkit-scrollbar-button {
+    background: #111;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #fde047;
+    border-radius: 3rem;
+  }
+
+
+  
+}

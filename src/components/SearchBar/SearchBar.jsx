@@ -1,29 +1,14 @@
-import { MdOutlineShortText } from "react-icons/md";
-
 function SearchBar({ search, setSearch }) {
   return (
-    <div className="max-w-[1150px] bg-[#1A1A1A] rounded-full overflow-hidden border-2 border-[#333333] p-1.5 px-5 pr-8 flex items-center">
-      <div className="h-4 w-4 rounded-full border-2 flex-shrink-0 animate-pulse" />
+    <div className="w-full bg-black rounded-lg mr-3 overflow-hidden border-2 border-[#333333]  px-5 pr-8 flex items-center p-3 shadow-2xl shadow-lime-500/20">
+      <div className="h-4 w-4 rounded-full border-2 flex-shrink-0 animate-bounce" />
       <input
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        className="bg-[#1A1A1A] text-white border-none lg:w-full focus:ring-0 outline-none placeholder-[#FAFAFA] text-xs"
+        className="bg-black px-3 text-md ml-3 text-slate-900 border-none lg:w-full focus:ring-0 outline-none placeholder-slate-400"
         placeholder="Search..."
       />
-
-      <div className="flex items-center divide-dotted divide-x-2 divide-[#333333] ml-auto">
-        <div className="flex space-x-2 pr-5">
-          <button className="tag">Minimal</button>
-          <button className="tag">House</button>
-          <button className="tag">Minimal</button>
-        </div>
-
-        <div className="flex items-center space-x-1.5 text-[#CECECE] pl-4">
-          <MdOutlineShortText className="text-2xl animate-pulse" />
-          <span className="font-medium text-sm">Filters</span>
-        </div>
-      </div>
     </div>
   );
 }
