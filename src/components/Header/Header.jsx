@@ -1,17 +1,17 @@
 import React from 'react'
 import {  HiOutlineSun, HiOutlineUser } from 'react-icons/hi'
+import Carousel from '../Carousel/Carousel'
+import MusicList from '../musicList/MusicList'
+import Playlist from '../PlayerList/Playlist'
 import SearchBar from '../SearchBar/SearchBar'
 
 const Header = () => {
   return (
-    <section className='xl:ml-[90px] static   py-4  w-auto flex flex-row justify-between items-center mr-0 pl-16 pr-7'>
-        <SearchBar/>     
-        <div className='bg-black/20 p-1.5 rounded-lg cursor-pointer'>
-          <HiOutlineSun size={34} className="text-slate-200"/>
-        </div>
-        <div className='bg-black/20 p-1.5 ml-2 rounded-lg cursor-pointer'>
-          <HiOutlineUser size={34} className="text-slate-200"/>
-        </div>
+    <section className='absolute left-2 lg:left-32 top-3 right-3 select-none '>
+            <SearchBar/>     
+       <Carousel/>
+       <Playlist/>
+       <MusicList/>
     </section>
   )
 }

@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: rgba(46, 45, 45, 0.967);
+  background-color: rgba(27, 25, 25, 0.967);
 
 }
 @layer base {
@@ -13,8 +13,17 @@ body {
  
 
   @font-face {
-    font-family: Montserrat-Bold;
+    font-family: DancingScript-Bold;
     src: url('../fonts/DancingScript-Bold.ttf');
+  }
+  @font-face {
+    font-family: Calistoga-Regular;
+    src: url('../fonts/Calistoga-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: IndieFlower-Regular;
+    src: url('../fonts/IndieFlower-Regular.ttf');
   }
 
   @font-face {

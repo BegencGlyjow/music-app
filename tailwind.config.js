@@ -7,6 +7,9 @@ module.exports = {
       fontFamily: {
         'dancing-medium': ["DancingScript-Medium"],
         'dancing-bold': ["DancingScript-Bold"],
+        'indieflower-regular': ["IndieFlower-Regular"],
+        'calistoga-Regular': ["Calistoga-Regular"],
+  
       },
     },
   },
