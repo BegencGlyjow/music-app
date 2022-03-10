@@ -10,7 +10,7 @@ const Carousel = () => {
         setWidth(carousel.current.scrollWidth - carousel.current.offsetWidth)
     },[])
   return (
-    <motion.section ref={carousel} className='absolute left-3 md:left-28  right-3 top-[73px]  rounded-xl p-3 bg-black/25 backdrop-blur-lg cursor-grab overflow-hidden shadow-xl shadow-lime-600/25'>
+    <motion.section ref={carousel} className='absolute left-3 md:left-28  right-3 top-[73px]  rounded-xl p-3 bg-black/25 backdrop-blur-lg cursor-grab overflow-hidden'>
         <motion.div className='flex' drag="x" 
         dragConstraints={{
             right:0,

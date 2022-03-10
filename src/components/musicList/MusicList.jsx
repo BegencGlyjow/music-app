@@ -5,7 +5,7 @@ import lost from '../../assets/img/3.jpeg'
 
 const MusicList = () => {
   return (
-    <main className='absolute grid grid-cols-12 grid-rows-6 gap-2 left-3 md:left-28  text-slate-50 right-3 top-[790px] h-[800px]  rounded-xl p-3 bg-black/25 backdrop-blur-lg  overflow-hidden shadow-xl shadow-lime-600/25'>
+    <main className='absolute grid grid-cols-12 grid-rows-6 gap-2 left-3 md:left-28  text-slate-50 right-3 top-[840px] h-[800px]  rounded-xl p-3 bg-black/25 backdrop-blur-lg  overflow-hidden shadow-xl shadow-lime-600/25'>
         <div className='bg-none col-span-12 md:col-span-6 text-center'>
             <div className='rounded-lg p-2 bg-lime-900/20 flex justify-between  items-center'>
                    

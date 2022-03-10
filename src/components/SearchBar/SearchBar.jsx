@@ -2,7 +2,7 @@ import { HiOutlineSearch } from "react-icons/hi";
 
 function SearchBar({ search, setSearch }) {
   return (
-    <div className="w-full bg-black/25 rounded-lg mr-3 overflow-hidden border-2 border-[#333333]  px-5 pr-8 flex items-center p-3 shadow-2xl shadow-lime-600/20">
+    <div className="w-full bg-black/25 rounded-lg mr-3 overflow-hidden border-2 border-[#333333]  px-5 pr-8 flex items-center p-3 ">
       <HiOutlineSearch className="h-8 w-8 text-slate-200  animate-bounce" />
       <input
         type="text"
