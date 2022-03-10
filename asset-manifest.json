@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.ef9f89a8.css",
-    "main.js": "/music-app/static/js/main.40941ccc.js",
+    "main.css": "/music-app/static/css/main.14d3dc74.css",
+    "main.js": "/music-app/static/js/main.dd776821.js",
     "static/js/787.28cb0dcd.chunk.js": "/music-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/hand.mp3": "/music-app/static/media/hand.8bfbd15dc1de261142c9.mp3",
+    "static/media/Calistoga-Regular.ttf": "/music-app/static/media/Calistoga-Regular.ddb5599babda5aa3b31f.ttf",
     "static/media/DancingScript-Medium.ttf": "/music-app/static/media/DancingScript-Medium.3a0c10743252bc5d2904.ttf",
     "static/media/DancingScript-Bold.ttf": "/music-app/static/media/DancingScript-Bold.8bcc6e426addb9a5c847.ttf",
+    "static/media/IndieFlower-Regular.ttf": "/music-app/static/media/IndieFlower-Regular.599d26584b9afc1d20b1.ttf",
     "static/media/1.jpeg": "/music-app/static/media/1.e6c1dd17fc62eadbfaf9.jpeg",
     "static/media/7.jpeg": "/music-app/static/media/7.e6c1dd17fc62eadbfaf9.jpeg",
     "static/media/4.jpeg": "/music-app/static/media/4.06fa9abd7a98d1c22a0b.jpeg",
@@ -20,12 +21,12 @@
     "static/media/11.jpeg": "/music-app/static/media/11.0a1328d5cf812ba6f567.jpeg",
     "static/media/hed.svg": "/music-app/static/media/hed.0ce49c61e4863700da7ad2a65a1aeba2.svg",
     "index.html": "/music-app/index.html",
-    "main.ef9f89a8.css.map": "/music-app/static/css/main.ef9f89a8.css.map",
-    "main.40941ccc.js.map": "/music-app/static/js/main.40941ccc.js.map",
+    "main.14d3dc74.css.map": "/music-app/static/css/main.14d3dc74.css.map",
+    "main.dd776821.js.map": "/music-app/static/js/main.dd776821.js.map",
     "787.28cb0dcd.chunk.js.map": "/music-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef9f89a8.css",
-    "static/js/main.40941ccc.js"
+    "static/css/main.14d3dc74.css",
+    "static/js/main.dd776821.js"
   ]
 }
