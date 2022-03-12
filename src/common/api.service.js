@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const api = axios.create({
-    baseURL:'https://yeketak.com.tm/api/front/',
+    baseURL:'https://yeketak.com.tm/api/front/files/',
     // timeout: 1000,
     // headers: {'Authorization': Bearer `${token}`}
 })
