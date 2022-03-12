@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/tailwind.css';
 import reportWebVitals from './reportWebVitals';
-import AppLayout from './components/Layouts/AppLayout';
+import WebRoutes from './routes/WebRoutes';
 
 ReactDOM.render(
   <React.StrictMode>
-    <AppLayout/>
+   <WebRoutes/>
   </React.StrictMode>,
   document.getElementById('root')
 );

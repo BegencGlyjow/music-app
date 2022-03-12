@@ -18,7 +18,7 @@ const Carousel = () => {
         }}>
             {images.map(image => {
                 return (
-                    <motion.div className='min-w-[30rem]  p-3' key={image}>
+                    <motion.div className='min-w-[20rem] min-h-[25rem]  p-3' key={image}>
                         <img src={image} alt="" className='w-[100%] h-[100%] pointer-events-none rounded-xl'/>
                     </motion.div>
                 )
