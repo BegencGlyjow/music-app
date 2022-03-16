@@ -7,8 +7,8 @@ const WebRoutes = () => {
   return (
         <Router>
             <Routes>
-                <Route excat path='/' element={<Home/>}/>
-                <Route excat path='/favorites' element={<Favorite/>}/>
+                <Route excat path='/music-app' element={<Home/>}/>
+                <Route  path='/favorites' element={<Favorite/>}/>
             </Routes>
         </Router>
   )
