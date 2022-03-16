@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.fe8c0760.css",
-    "main.js": "/music-app/static/js/main.95cdb4e9.js",
+    "main.css": "/music-app/static/css/main.7fce2ed0.css",
+    "main.js": "/music-app/static/js/main.25519cbb.js",
     "static/js/787.28cb0dcd.chunk.js": "/music-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/Calistoga-Regular.ttf": "/music-app/static/media/Calistoga-Regular.ddb5599babda5aa3b31f.ttf",
     "static/media/DancingScript-Medium.ttf": "/music-app/static/media/DancingScript-Medium.3a0c10743252bc5d2904.ttf",
@@ -20,12 +20,12 @@
     "static/media/10.jpeg": "/music-app/static/media/10.0a1328d5cf812ba6f567.jpeg",
     "static/media/11.jpeg": "/music-app/static/media/11.0a1328d5cf812ba6f567.jpeg",
     "index.html": "/music-app/index.html",
-    "main.fe8c0760.css.map": "/music-app/static/css/main.fe8c0760.css.map",
-    "main.95cdb4e9.js.map": "/music-app/static/js/main.95cdb4e9.js.map",
+    "main.7fce2ed0.css.map": "/music-app/static/css/main.7fce2ed0.css.map",
+    "main.25519cbb.js.map": "/music-app/static/js/main.25519cbb.js.map",
     "787.28cb0dcd.chunk.js.map": "/music-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe8c0760.css",
-    "static/js/main.95cdb4e9.js"
+    "static/css/main.7fce2ed0.css",
+    "static/js/main.25519cbb.js"
   ]
 }
