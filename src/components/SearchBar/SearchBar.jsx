@@ -11,7 +11,7 @@ function SearchBar({ search, setSearch }) {
         className="font-dancing-bold bg-black/0 px-3 py-1 md:text-lg text-xs ml-3 text-slate-300  lg:w-full focus:ring-none outline-none placeholder-slate-300"
         placeholder="Search..."
       />
-       
+
     </div>
   );
 }
