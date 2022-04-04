@@ -1,0 +1,13 @@
+.range {
+    -webkit-appearance: none;
+    background-color: rgb(108, 201, 15);
+    height: 2px;
+    opacity: 1;
+}
+.range::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    width:16px;
+    height: 16px;
+    background: black;
+    border-radius: 50%;
+}
