@@ -10,7 +10,7 @@ const Sidebar = ({ toggle, setToggle }) => {
 
   return (
 
-    <section className={`fixed top-0 -left-28 xl:left-0  duration-500   flex flex-col p-4 bg-gradient-to-t  from-black to-lime-900/20 items-center w-[90px] h-screen space-y-8 border-r border-lime-500/50`}>
+    <section className={`fixed top-0 ${toggle ? 'left-28' : '-left-28'} xl:left-0  duration-500   flex flex-col p-4 bg-gradient-to-t  from-black to-lime-900/20 items-center w-[90px] h-screen space-y-8 border-r border-lime-500/50`}>
 
       <div className='mt-10 px-8  bg-none'>
         <Audio color="#1EB135" height="60" width="20" className="shadow-xl shadow-lime-600" />

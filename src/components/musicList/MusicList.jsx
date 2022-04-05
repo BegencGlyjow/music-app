@@ -27,9 +27,8 @@ const MusicList = () => {
         <aside className='flex justify-between items-center text-3xl mt-3 mb-4 font-dancing-bold text-slate-50 border-r border-l border-lime-600 px-6 py-2 rounded-md bg-black/70'>
           <div className='flex flex-row text-4xl'>
             <HiOutlineBell className=' text-slate-50' />
-            New relases
+            Täze aýdymlar
           </div>
-          new
         </aside>
         {
           allfiles.map((file, id) => {
@@ -58,7 +57,7 @@ const MusicList = () => {
         <aside className='flex justify-between text-3xl items-center mt-3 mb-4 font-dancing-bold text-slate-50 border-r border-l border-lime-600 p-2 rounded-md bg-black/70'>
           <div className='flex flex-row text-4xl'>
             <HiOutlineFire className=' text-slate-50' />
-            Hot Hits
+            Hoş owazlar
           </div>
           new
         </aside>

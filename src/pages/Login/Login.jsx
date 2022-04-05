@@ -42,7 +42,7 @@ const Login = () => {
                         </div>
                     </div>
                     <div className='flex px-26 mt-6 justify-between items-center'>
-                        <NavLink to={'/music-app'} className='bg-lime-600 p-3 w-full text-xl rounded-xl hover:bg-lime-800 hover:translate-y-5 duration-700 font-extrabold text-slate-50'>Tassyklaň</NavLink>
+                        <NavLink to={'/music-app'} className='flex justify-center items-center bg-lime-600 p-3 w-full text-xl rounded-xl hover:bg-lime-800 hover:translate-y-5 duration-700 font-extrabold text-slate-50'>Tassyklaň</NavLink>
                     </div>
 
                 </form>
